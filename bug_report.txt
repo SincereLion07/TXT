@@ -1,0 +1,12 @@
+BugReport:
+    Project: Ad-hoc testing of android app
+    ID: 17
+    Reporter: Elena Slesareva
+    Severity: Blocker
+    Priority: High
+    Bug Summary: Application installation error
+    Step To Retroduce:
+     1) Download application,
+     2) Click for instal
+    Expected Result: Installing the app on the phone
+    Actual Result: An error message appears:There was a problem parsing the package
