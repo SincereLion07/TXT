@@ -1,0 +1,6 @@
+MyPreferences:
+Favorite film - A lots
+Favorite serial - Legacy
+Favorite food - Seafood
+Favorite season - Autumn
+Next country for trip - Portugal

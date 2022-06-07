@@ -1,0 +1,11 @@
+Skill’s List:
+Basic theory
+HTTP requests
+Programming language Python
+SQL Basics
+Mobile, API, Load testing
+Data base Postgres
+Access to remote server
+Building android apps on Android Studio
+Scrum development methodology
+Git, Terminal Git Bash, Postman, ADB, JSON, XML, etc.
