@@ -1,0 +1,6 @@
+AboutMe:
+   Last Name - Slesareva
+   FirstName - Elena
+   Father’s Name - Urievna
+   Quantity of Pets - 0
+   Desired Salary - $2000
